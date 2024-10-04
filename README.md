@@ -1,1 +1,1 @@
-# StaticHugoSite
+# StaticHugoWebpage #
