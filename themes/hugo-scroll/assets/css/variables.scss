@@ -1,7 +1,7 @@
 :root {
 
     /* === Cover / Landing area === */
-    --cover-text-color: #7eb63b;
+    --cover-text-color: #040404;
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
     --highlight: #86c440;
     --highlight-contrast: var(--cover-text-color);
@@ -11,11 +11,11 @@
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
-    --cover-title-text-shadow: white 0px 0px 7px;
+    --cover-title-text-shadow: white 0px 0px 30px;
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #9fd067;
+    --sticky-menu-text-color: #9fd067;     
 
 
     /* === Alternating content (post) sections  === */
